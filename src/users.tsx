@@ -1,4 +1,4 @@
-import UserCard from "./UserCard"
+import UserCard from "./userCard"
 
 interface User {
     name: string,

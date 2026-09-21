@@ -1,4 +1,6 @@
-import type { SportType } from "./types";
+type SportType = {
+    name: string;
+};
 
 export default function SportCard({ sport }: {sport: SportType}) {
     return (

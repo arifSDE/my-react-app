@@ -26,7 +26,3 @@ function Todo({ task, time }: TodoPropType) {
 // }
 
 export default Todo;
-
-
-
-const { task, time } = { task: 'take a shower', time: '10.00' }

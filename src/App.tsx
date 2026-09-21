@@ -3,7 +3,7 @@
 // import Book from './Book';
 
 import './App.css'
-import Sports from './Sports'
+// import Sports from './Sports'
 // import Users from './Users'
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <h1>My React</h1>
-      <Sports></Sports>
+      {/* <Sports></Sports> */}
       {/* <Users></Users> */}
 
       {/* {
